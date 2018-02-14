@@ -1,0 +1,10 @@
+name: Zombifier
+main: com.kraken.zombifier.Main
+version: 1.0
+commands: 
+     zombifier:
+        description: Controls the Zombifier plugin.
+        usage: /<command> <argument>
+permissions:
+     zombifier.*:
+        description: Permission for all LoginBonus commands.

@@ -1,0 +1,28 @@
+# ------------------------------------------------------
+# ZOMBIFIER Configuration File (config.yml)
+# 
+# Editing the settings in this file will change the way
+# Zombifier works on your server. To reset this file to
+# its default values, simply delete your config.yml and
+# stop/restart your server.
+# ------------------------------------------------------
+#
+# LOADED MARKER | Dummy value to check against at start-up, don't change!
+loaded: true
+# 
+# ENABLED | If true, players will spawn a zombie on their corpses at death.
+enabled: true
+#
+# TYPE | Determines the mob spawned. Supported types: zombie. Coming soon: baby, skeleton, pigman, blaze, wither.
+type: zombie
+#
+# LANGUAGE | Currently supported languages: English only (for now!)
+language: English
+# 
+# SILENT MODE | If true, most messages will not be relayed to players.
+silentMode: false
+# 
+# PERMISSIONS REQUIREMENT | If true, players must have the proper permissions to use basic WildFire commands.
+permissions: false
+#
+# FOR MORE INFO | Link TBA
