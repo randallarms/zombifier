@@ -6,6 +6,10 @@ Simple & configurable login bonus plugin for Bukkit on Minecraft 1.12!
 
 HOW TO INSTALL AND USE: https://www.spigotmc.org/resources/zombifier.53294/
 
+Main command is "/zombifier", and main permission nodes are "zombifier.*" !
+
+Use the options in config to edit the way the plugin works on your server. Change "enabled" to false to disable the plugin, or use the in-game command "/zombifier enable off". You can turn it back on with "/zombifier enable on".
+
 Guides & plugin to be updated consistently! This plugin is far from complete, and represents an open-source, work-in-progress project.
 
 #Zombifier on GitHub: https://github.com/randallarms/zombifier
