@@ -32,8 +32,8 @@ public class Commands {
 		
 		switch (command) {
 		
-			//Command: wildfire
-			case "wildfire":
+			//Command: zombifier
+			case "zombifier":
 				
 				switch (args.length) {
 						
@@ -79,7 +79,7 @@ public class Commands {
 						//Command handling switch
 						switch ( args[0].toLowerCase() ) {
 						
-							//Command: wildfire enable
+							//Command: zombifier enable
 							case "enable":
 							case "enabled":
 								
@@ -128,7 +128,7 @@ public class Commands {
 								
 								}
 						
-							//Command: wildfire language
+							//Command: zombifier language
 							case "language":
 							case "lang":
 								
@@ -159,7 +159,7 @@ public class Commands {
 									return true;
 								}
 								
-							//Command: wildfire silentMode
+							//Command: zombifier silentMode
 							case "silentmode":
 								
 								switch ( args[1].toLowerCase() ) {
@@ -209,7 +209,7 @@ public class Commands {
 								
 								}
 							
-			        	    //Command: wildfire perms
+			        	    //Command: zombifier perms
 			        	    case "perms":
 			        	    case "permissions":
 			        	    case "perm":
