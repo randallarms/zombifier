@@ -2,7 +2,7 @@
 
 by Kraken | https://www.spigotmc.org/resources/zombifier.53294/
 
-Simple & configurable login bonus plugin for Bukkit on Minecraft 1.12!
+Simple & configurable plugin to spawn zombies on player death for Bukkit on Minecraft 1.12!
 
 HOW TO INSTALL AND USE: https://www.spigotmc.org/resources/zombifier.53294/
 
