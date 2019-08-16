@@ -6,7 +6,7 @@ Main command is "/zombifier", and main permission nodes are "zombifier.*" !
 
 Use the options in config to edit the way the plugin works on your server. Change "enabled" to false to disable the plugin, or use the in-game command "/zombifier enable off". You can turn it back on with "/zombifier enable on".
 
-#Zombifier on GitHub: https://github.com/randallarms/zombifier
+Zombifier on GitHub: https://github.com/randallarms/zombifier
 
 Do you want to help us improve this plugin? You can! Everyone welcome to contribute on GitHub by utilizing the Flow to branch their own version, make changes (commits), and submit their changes as a "pull request" to be considered for merging with the master file.
 
