@@ -6,6 +6,15 @@ Main command is "/zombifier", and main permission nodes are "zombifier.*" !
 
 Use the options in config to edit the way the plugin works on your server. Change "enabled" to false to disable the plugin, or use the in-game command "/zombifier enable off". You can turn it back on with "/zombifier enable on".
 
+config:
+
+    LOADED MARKER | Dummy value to check against at start-up, don't change!
+    ENABLED | If true, players will spawn a zombie on their corpses at death.
+    TYPE | Determines the mob spawned. Supported types: zombie. Coming soon: baby, skeleton, pigman, blaze, wither.
+    LANGUAGE | Currently supported languages: English only (for now!)
+    SILENT MODE | If true, most messages will not be relayed to players.
+    PERMISSIONS REQUIREMENT | If true, players must have the proper permissions to use basic WildFire commands.
+
 Zombifier on GitHub: https://github.com/randallarms/zombifier
 
 Do you want to help us improve this plugin? You can! Everyone welcome to contribute on GitHub by utilizing the Flow to branch their own version, make changes (commits), and submit their changes as a "pull request" to be considered for merging with the master file.
