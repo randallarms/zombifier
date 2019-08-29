@@ -22,7 +22,7 @@ language: English
 # SILENT MODE | If true, most messages will not be relayed to players.
 silentMode: false
 # 
-# PERMISSIONS REQUIREMENT | If true, players must have the proper permissions to use basic WildFire commands.
+# PERMISSIONS REQUIREMENT | If true, players must have the proper permissions to use basic Zombifier commands.
 permissions: false
 #
 # FOR MORE INFO | Link TBA
