@@ -13,7 +13,7 @@ config:
     TYPE | Determines the mob spawned. Supported types: zombie. Coming soon: baby, skeleton, pigman, blaze, wither.
     LANGUAGE | Currently supported languages: English only (for now!)
     SILENT MODE | If true, most messages will not be relayed to players.
-    PERMISSIONS REQUIREMENT | If true, players must have the proper permissions to use basic WildFire commands.
+    PERMISSIONS REQUIREMENT | If true, players must have the proper permissions to use basic Zombifier commands.
 
 Zombifier on GitHub: https://github.com/randallarms/zombifier
 
