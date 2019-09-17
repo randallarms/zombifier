@@ -14,6 +14,17 @@ config:
     LANGUAGE | Currently supported languages: English only (for now!)
     SILENT MODE | If true, most messages will not be relayed to players.
     PERMISSIONS REQUIREMENT | If true, players must have the proper permissions to use basic Zombifier commands.
+    
+commands: 
+
+     zombifier:
+        description: Controls the Zombifier plugin.
+        usage: /<command> <argument>
+    
+permissions:
+
+     zombifier.*:
+        description: Permission for all LoginBonus commands.
 
 Zombifier on GitHub: https://github.com/randallarms/zombifier
 
